@@ -1,0 +1,14 @@
+{
+  "name": "blitz_api",
+  "module": "app.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
